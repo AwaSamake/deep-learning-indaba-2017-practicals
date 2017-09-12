@@ -12,6 +12,10 @@
 
 2. Python and Numpy (Practical 0)
 
+3. From linear to non-linear models (Practical 1)
+
+4. Feedforward Neural Networks on Real Data & Best Practices (Practical 2)
+
 ## Credit
 Deep Learning Indaba 2017
 
